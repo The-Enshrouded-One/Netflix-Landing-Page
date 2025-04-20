@@ -11,7 +11,7 @@ Welcome to my Netflix Landing Page project! This is a simple, responsive fronten
 ![Netflix Clone Preview](./assets/preview1.jpg)  
 ![Netflix Clone Preview](./assets/preview2.jpg)  
 ![Netflix Clone Preview](./assets/preview3.jpg)  
-*Add a screenshot of your UI here*
+
 
 ---
 
