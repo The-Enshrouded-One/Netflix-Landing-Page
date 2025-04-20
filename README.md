@@ -33,8 +33,11 @@ Welcome to my Netflix Landing Page project! This is a simple, responsive fronten
 
 ```bash
 netflix-clone/
-│
-├── index.html         # Main HTML file
-├── style.css          # Styling file
+├── index.html
+├── style.css
+├── assets/
+│   └── images/
+│       └── screenshot.png 
+└── README.md
       
   
